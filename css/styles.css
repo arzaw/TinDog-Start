@@ -1,5 +1,5 @@
 #title{
-    background-color: #F49D1A;
+    background-image: linear-gradient(#B01E68, #DC3535,#F49D1A, #FFE15D) ;
 }
 
 .container-fluid{
@@ -10,4 +10,39 @@ h1 {
     font-weight: 900;
     font-size: 3rem;
     line-height: 1.5;
+    margin-bottom: 20px;
+}
+.btn-outline-light{
+    margin: 1px solid white;
+}
+
+.fa-brands{
+    margin-right: 5px;
+}
+
+.header-content{
+    font-family: 'Ubuntu', sans-serif;
+    margin: auto 0px;
+    color: white;
+}
+
+.btn-lg{
+    margin: 10px 10px;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.dog-img{
+    width: 60%;
+    transform: rotate(25deg);
+    
+}
+.nav-item{
+    margin: 10px 20px;
+}
+.head-container{
+    margin: 10% 0px;
 }
